@@ -170,7 +170,7 @@ const BurgerNav = styled.div`
         border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 
         a{
-            font-weight: 600;
+            font-weight: 599;
         }
         }
 `;
